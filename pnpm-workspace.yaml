@@ -23,5 +23,6 @@ minimumReleaseAgeExclude:
   - expo-location@57.0.14
   - expo-router@57.0.17
   - expo-system-ui@57.0.3
+  - expo-secure-store@57.0.2
 overrides:
   lightningcss: 1.30.1
